@@ -45,7 +45,7 @@ import {
     {
       title: "Web Developer",
       icon: web,
-      source_code_link: "https://github.com/Chetandasa",
+      source_code_link: "",
     },
     {
       title: "React Native Developer",
