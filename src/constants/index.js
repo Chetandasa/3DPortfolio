@@ -135,7 +135,7 @@ import {
       icon: tesla,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
-      points: [Website Detiles
+      points: ["Website Detiles"
       ],
     },
     {
@@ -144,7 +144,7 @@ import {
       icon: shopify,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
-      points: [Website Deatiles 
+      points: ["Website Detiles"
       ],
     },
     {
