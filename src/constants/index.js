@@ -278,6 +278,27 @@ import {
       image: carrent,
     },
 
+    {
+      name: "Netflix Clone",
+      description:
+        "AI-Based Web Application using OpanAI's GPT model Sammarize is the Best Application. How does this work you can take any URL of link the Articles and past its over here AI will Generate the Summary for You",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
+    },
+
   ];
   
   export { services, technologies, experiences, testimonials, projects };
