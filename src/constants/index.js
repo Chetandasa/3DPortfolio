@@ -125,8 +125,6 @@ import {
       date: "March 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
     {
