@@ -124,7 +124,7 @@ import {
       iconBg: "#383E56",
       date: "March 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
+        "",
       ],
     },
     {
