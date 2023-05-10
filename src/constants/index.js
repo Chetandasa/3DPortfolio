@@ -45,7 +45,7 @@ import {
     {
       title: "Web Developer",
       icon: web,
-      source_code_link: "",
+      source_code_link: "https://github.com/Chetandasa",
     },
     {
       title: "React Native Developer",
@@ -215,7 +215,7 @@ import {
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
         {
-          name: "react",
+          name: "react.js",
           color: "blue-text-gradient",
         },
         {
