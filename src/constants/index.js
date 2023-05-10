@@ -207,7 +207,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/Chetandasa",
+      source_code_link: "",
     },
     {
       name: "Job IT",
@@ -236,7 +236,7 @@ import {
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
         {
-          name: "nextjs",
+          name: "next.js",
           color: "blue-text-gradient",
         },
         {
@@ -258,7 +258,7 @@ import {
         "AI-Based Web Application using OpanAI's GPT model Sammarize is the Best Application. How does this work you can take any URL of link the Articles and past its over here AI will Generate the Summary for You",
       tags: [
         {
-          name: "react",
+          name: "react.js",
           color: "blue-text-gradient",
         },
         {
@@ -279,7 +279,7 @@ import {
         "AI-Based Web Application using OpanAI's GPT model Sammarize is the Best Application. How does this work you can take any URL of link the Articles and past its over here AI will Generate the Summary for You",
       tags: [
         {
-          name: "react",
+          name: "react.js",
           color: "blue-text-gradient",
         },
         {
