@@ -55,10 +55,10 @@ import {
       title: "Backend Developer",
       icon: backend,
     },
-    {
-      title: "Content Creator",
-      icon: creator,
-    },
+    // {
+    //   title: "Content Creator",
+    //   icon: creator,
+    // },
     {
       title: "Frontend Developer",
       icon: creator,
@@ -118,22 +118,27 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Real EState",
+      title: "React.js & Next.js Developer",
+      company_name: "TV-Shows",
       icon: starbucks,
       iconBg: "#383E56",
       date: "March 2023",
       points: [
-        "",
+        "A TV Shows like Netflix you can watch movies and you Favorite it to watch later",
+        "Login & Logout with Google, GitHub or Create a New account",
+        "Fully responsive website",
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "OpenAI Connection",
+      company_name: "AI Summarizer",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
-      points: ["Website Detiles"
+      date: "April 2023",
+      points: ["Summarizer is the Best AI-based web app with Modern user interface",
+      "Connection to OpenAI model",
+      "Integration of RTK Redux Toolkit Query",
+      "Copy to clipboard browser history storage"
       ],
     },
     {
