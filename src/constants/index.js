@@ -176,7 +176,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "I've never met a web developer who truly cares about their clients' success like Rick.",
       name: "Chris Brown",
       designation: "CEO",
       company: "DEF Corp",
