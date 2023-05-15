@@ -171,7 +171,7 @@ import {
         "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
       name: "Sara Lee",
       designation: "CFO",
-      company: "Acme Co",
+      company: "Acm",
       image: "",
     },
     {
