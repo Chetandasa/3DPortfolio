@@ -179,7 +179,7 @@ import {
         "I've never met a web developer who truly cares about their clients' success like Rick.",
       name: "Chris Brown",
       designation: "CEO",
-      company: "DEF Corp",
+      company: "DEF",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
