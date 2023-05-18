@@ -155,7 +155,7 @@ import {
       company_name: "Meta",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "",
+      date: "March 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
