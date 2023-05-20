@@ -168,7 +168,7 @@ import {
     {
       testimonial:
         "I thought it was impossible to make a website as beautiful as our product.",
-      name: "Sara Lee",
+      name: "Sara",
       designation: "CFO",
       company: "Acm",
       image: "",
