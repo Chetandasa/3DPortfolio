@@ -179,7 +179,7 @@ import {
       name: "Chris Brown",
       designation: "CEO",
       company: "DEF",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+      image: "",
     },
     {
       testimonial:
