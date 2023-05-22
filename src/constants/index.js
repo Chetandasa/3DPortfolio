@@ -55,10 +55,10 @@ import {
       title: "Backend Developer",
       icon: backend,
     },
-    // {
-    //   title: "Content Creator",
-    //   icon: creator,
-    // },
+    {
+      title: "Content Creator",
+      icon: creator,
+    },
     {
       title: "Frontend Developer",
       icon: creator,
