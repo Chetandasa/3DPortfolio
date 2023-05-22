@@ -253,7 +253,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/Chetandasa",
+      source_code_link: "",
     },
 
     {
