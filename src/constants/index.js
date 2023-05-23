@@ -232,7 +232,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/Chetandasa",
+      source_code_link: "",
     },
     {
       name: "Trip Guide",
