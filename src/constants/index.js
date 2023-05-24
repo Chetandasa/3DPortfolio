@@ -211,7 +211,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/Chetandasa",
+      source_code_link: "",
     },
     {
       name: "Job IT",
