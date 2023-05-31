@@ -214,7 +214,7 @@ import {
       source_code_link: "https://github.com/Chetandasa",
     },
     {
-      name: "Job IT",
+      name: "Properties",
       description:
         "Web application",
       tags: [
