@@ -167,7 +167,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product.",
+        "I thought it was impossible to make a website as beautiful.",
       name: "Sara",
       designation: "CFO",
       company: "Acm",
