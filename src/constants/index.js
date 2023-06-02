@@ -149,7 +149,7 @@ import {
       icon: shopify,
       iconBg: "#383E56",
       date: "April 2023 - Present",
-      points: ["Website Detiles"],
+      points: ["Website"],
     },
     {
       title: "Full stack Developer",
