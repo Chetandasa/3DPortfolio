@@ -24,6 +24,8 @@ import {
     jobit,
     tripguide,
     threejs,
+    tvshows,
+    AI,
   } from "../assets";
   
   export const navLinks = [
@@ -120,7 +122,7 @@ import {
     {
       title: "React.js & Next.js Developer",
       company_name: "TV-Shows",
-      icon: starbucks,
+      icon: tvshows,
       iconBg: "#383E56",
       date: "March 2023",
       points: [
@@ -130,9 +132,9 @@ import {
       ],
     },
     {
-      title: "OpenAI Connection",
+      title: "AI",
       company_name: "AI Summarizer",
-      icon: tesla,
+      icon: AI,
       iconBg: "#E6DEDD",
       date: "April 2023",
       points: ["Summarizer is the Best AI-based web app with Modern user interface",
