@@ -148,7 +148,7 @@ import {
       company_name: "Shopify",
       icon: shopify,
       iconBg: "#383E56",
-      date: "April 2023 - Present",
+      date: "April 2023",
       points: ["Website"],
     },
     {
@@ -213,7 +213,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/Chetandasa",
+      source_code_link: "",
     },
     {
       name: "Properties",
