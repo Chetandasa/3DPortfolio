@@ -148,7 +148,7 @@ import {
       company_name: "Shopify",
       icon: shopify,
       iconBg: "#383E56",
-      date: "April ",
+      date: "April 2023",
       points: ["Website"],
     },
     {
