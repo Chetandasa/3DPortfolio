@@ -216,7 +216,7 @@ import {
       source_code_link: "",
     },
     {
-      name: "car",
+      name: "CarHub",
       description:
         "Web application",
       tags: [
