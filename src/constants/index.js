@@ -216,7 +216,7 @@ import {
       source_code_link: "",
     },
     {
-      name: "Properties",
+      name: "car",
       description:
         "Web application",
       tags: [
