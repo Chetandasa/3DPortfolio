@@ -221,7 +221,7 @@ import {
         "Web application car rents",
       tags: [
         {
-          name: "react.js",
+          name: "Next.js",
           color: "blue-text-gradient",
         },
         {
