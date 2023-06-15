@@ -218,7 +218,7 @@ import {
     {
       name: "CarHub",
       description:
-        "Web application car rent",
+        "Web application car rents",
       tags: [
         {
           name: "react.js",
