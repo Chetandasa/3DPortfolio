@@ -218,7 +218,7 @@ import {
     {
       name: "CarHub",
       description:
-        "Web application carshowcase for car rent",
+        "Web application CarShowcase for car rent",
       tags: [
         {
           name: "Next.js",
