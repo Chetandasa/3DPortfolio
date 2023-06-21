@@ -283,7 +283,7 @@ import {
     {
       name: "TV-Shows Clone",
       description:
-        "AI-Based Web Application using OpanAI's GPT model Sammarize is the Best Application. How does this work you can take any URL of link the Articles and past its over here AI will Generate the Summary for You",
+        "TV-Shows Website",
       tags: [
         {
           name: "Next.js",
