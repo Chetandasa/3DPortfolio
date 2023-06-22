@@ -120,7 +120,7 @@ import {
   
   const experiences = [
     {
-      title: "React.js & Next.js Developer",
+      title: "React.js & Next.js",
       company_name: "TV-Shows",
       icon: tvshows,
       iconBg: "#383E56",
@@ -144,12 +144,14 @@ import {
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
+      title: "Next.js",
+      company_name: "Camp Home Away",
       icon: shopify,
       iconBg: "#383E56",
       date: "April 2023",
-      points: ["Website"],
+      points: ["Camp Home Away is a Best Website for Book your hotels like Airbnb Website",
+      "You can login create an account with Google, GitHub and very responsive website",
+      "You can Favorite you add your account and see the details of Properties you and see Map where it is located"],
     },
     {
       title: "Full stack Developer",
