@@ -288,9 +288,9 @@ import {
     },
 
     {
-      name: "TV-Shows Clone",
+      name: "3D Portfolio",
       description:
-        "TV-Shows Website",
+        "Portfolio",
       tags: [
         {
           name: "Next.js",
