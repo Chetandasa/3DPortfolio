@@ -31,6 +31,11 @@ import AI from "./company/ai.png"
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import carhub from "./carhub.png";
+import tvshows1 from "./tvshows1.png";
+import flexibble from "./flexibble.png";
+import portfolio from "./portfolio.png";
+import promptopia from "./promptopia.png";
 
 export {
   logo,
@@ -63,4 +68,9 @@ export {
   tripguide,
   tvshows,
   AI,
+  carhub,
+  tvshows1,
+  flexibble,
+  portfolio,
+  promptopia,
 };

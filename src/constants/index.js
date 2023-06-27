@@ -26,6 +26,11 @@ import {
     threejs,
     tvshows,
     AI,
+    carhub,
+    tvshows1,
+    flexibble,
+    portfolio,
+    promptopia,
   } from "../assets";
   
   export const navLinks = [
@@ -199,7 +204,7 @@ import {
     {
       name: "CarHub",
       description:
-        "Web-based platform that allows users to search Properties, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web-based platform that allows users to search Properties, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
         {
           name: "Next",
@@ -214,13 +219,13 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/Chetandasa/carhub",
+      image: carhub,
+      source_code_link: "https://github.com/Chetandasa",
     },
     {
-      name: "CarHub",
+      name: "TV-Shows",
       description:
-        "Web application CarShowcase for car rents ",
+        "Best Website like Netflix & Amazon to watch Movies & Shows and very responsive Application Using Next.js",
       tags: [
         {
           name: "Next.js",
@@ -235,7 +240,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: tvshows1,
       source_code_link: "https://github.com/Chetandasa",
     },
     {
@@ -256,7 +261,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: flexibble,
       source_code_link: "https://github.com/Chetandasa",
     },
 
@@ -278,7 +283,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: promptopia,
       source_code_link: "https://github.com/Chetandasa",
     },
 
@@ -300,7 +305,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: portfolio,
     },
 
   ];
