@@ -244,7 +244,7 @@ import {
       source_code_link: "https://github.com/Chetandasa",
     },
     {
-      name: "Trip Guide",
+      name: "Flexibble",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars.",
       tags: [
