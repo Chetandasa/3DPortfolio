@@ -290,7 +290,7 @@ import {
     {
       name: "3D Portfolio",
       description:
-        "Portfolio",
+        "3D Portfolio ",
       tags: [
         {
           name: "Next.js",
