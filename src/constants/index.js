@@ -268,7 +268,7 @@ import {
     {
       name: "AI Promptopia",
       description:
-        "AI Web Application using OpanAI's model Promptopia is the Best Application",
+        "AI Web Application using OpanAI's model Promptopia is the Best Application. How does this work you can login with GitHub and add Post,Edit,Remove.",
       tags: [
         {
           name: "react.js",
