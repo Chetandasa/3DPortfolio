@@ -246,7 +246,7 @@ import {
     {
       name: "Flexibble",
       description:
-        "",
+        "In Flexibble Website you can show you project and and ani one can seen your project and contact from GitHub",
       tags: [
         {
           name: "next.js",
