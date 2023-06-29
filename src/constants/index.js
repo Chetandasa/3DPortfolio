@@ -246,7 +246,7 @@ import {
     {
       name: "Flexibble",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars.",
+        "",
       tags: [
         {
           name: "next.js",
