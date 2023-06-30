@@ -36,6 +36,7 @@ import tvshows1 from "./tvshows1.png";
 import flexibble from "./flexibble.png";
 import portfolio from "./portfolio.png";
 import promptopia from "./promptopia.png";
+import AISumz from "./AISumz.png";
 
 export {
   logo,
@@ -73,4 +74,5 @@ export {
   flexibble,
   portfolio,
   promptopia,
+  AISumz,
 };

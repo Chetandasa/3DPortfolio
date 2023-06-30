@@ -31,6 +31,7 @@ import {
     flexibble,
     portfolio,
     promptopia,
+    AISumz,
   } from "../assets";
   
   export const navLinks = [
@@ -220,7 +221,7 @@ import {
         },
       ],
       image: carhub,
-      source_code_link: "https://github.com/Chetandasa",
+      source_code_link: "https://github.com/Chetandasa/carhub",
     },
     {
       name: "TV-Shows",
@@ -241,7 +242,7 @@ import {
         },
       ],
       image: tvshows1,
-      source_code_link: "https://github.com/Chetandasa",
+      source_code_link: "https://github.com/Chetandasa/tv-shows",
     },
     {
       name: "Flexibble",
@@ -262,7 +263,7 @@ import {
         },
       ],
       image: flexibble,
-      source_code_link: "https://github.com/Chetandasa",
+      source_code_link: "https://github.com/Chetandasa/grafbase_flexible",
     },
 
     {
@@ -284,7 +285,7 @@ import {
         },
       ],
       image: promptopia,
-      source_code_link: "https://github.com/Chetandasa",
+      source_code_link: "https://github.com/Chetandasa/AI-Promptopia",
     },
 
     {
@@ -305,8 +306,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: promptopia,
-      source_code_link: "https://github.com/Chetandasa",
+      image: AISumz,
+      source_code_link: "https://github.com/Chetandasa/ai",
     },
 
     {
@@ -328,7 +329,7 @@ import {
         },
       ],
       image: portfolio,
-      source_code_link: "https://github.com/Chetandasa",
+      source_code_link: "https://3d-portfolio-chetan.vercel.app/",
     },
 
   ];
