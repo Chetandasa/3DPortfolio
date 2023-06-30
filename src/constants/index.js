@@ -313,7 +313,7 @@ import {
     {
       name: "3D Portfolio",
       description:
-        "3D Portfolio ",
+        "3D Portfolio a best 3D Animated Portfolio",
       tags: [
         {
           name: "Next.js",
