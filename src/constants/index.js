@@ -226,7 +226,7 @@ import {
     {
       name: "TV-Shows",
       description:
-        "Best Website like Netflix & Amazon to watch Movies & Shows and very responsive Application Using Next.js",
+        "Best Website like Netflix & Amazon to watch Movies & Shows and very responsive Application Using Next.js.",
       tags: [
         {
           name: "Next.js",
