@@ -203,6 +203,27 @@ import {
   
   const projects = [
     {
+      name: "Store",
+      description:
+        "It is a E-commerce Website A best responsive website Frontend and Backend",
+      tags: [
+        {
+          name: "Next",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carhub,
+      source_code_link: "https://github.com/Chetandasa/carhub",
+    },
+    {
       name: "CarHub",
       description:
         "Web-based platform that allows users to search Properties, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
