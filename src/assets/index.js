@@ -37,6 +37,7 @@ import flexibble from "./flexibble.png";
 import portfolio from "./portfolio.png";
 import promptopia from "./promptopia.png";
 import AISumz from "./AISumz.png";
+import Store from "./Store.png";
 
 export {
   logo,
@@ -75,4 +76,5 @@ export {
   portfolio,
   promptopia,
   AISumz,
+  Store,
 };

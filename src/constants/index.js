@@ -32,6 +32,7 @@ import {
     portfolio,
     promptopia,
     AISumz,
+    Store,
   } from "../assets";
   
   export const navLinks = [
@@ -220,8 +221,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carhub,
-      source_code_link: "https://github.com/Chetandasa/carhub",
+      image: Store,
+      source_code_link: "https://github.com/Chetandasa/ecommerce-store",
     },
     {
       name: "CarHub",
