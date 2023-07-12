@@ -206,14 +206,14 @@ import {
     {
       name: "Store",
       description:
-        "It is a E-commerce Website A best responsive website Frontend and Backend",
+        "It is a E-commerce Website A best responsive website Frontend and Backend.",
       tags: [
         {
           name: "Next",
           color: "blue-text-gradient",
         },
         {
-          name: "",
+          name: "Stripe",
           color: "green-text-gradient",
         },
         {
