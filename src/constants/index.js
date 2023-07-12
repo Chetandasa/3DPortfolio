@@ -342,7 +342,7 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "",
           color: "green-text-gradient",
         },
         {
