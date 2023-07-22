@@ -155,7 +155,7 @@ import {
       company_name: "E-commerce website",
       icon: shopify,
       iconBg: "#383E56",
-      date: "April 2023",
+      date: "June 2023",
       points: ["Store is a Best Website for shopping and best responsive Website",
       "You can order without login and best privacy and Fast to place Orders.",
       "If you want to sell your brand new collections you can do that also there is a Admin.",
