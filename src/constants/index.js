@@ -207,7 +207,7 @@ import {
     {
       name: "Store",
       description:
-        "It is a E-commerce Website A best responsive website Frontend and Backend.",
+        "Store is a Best Website for shopping website you can order without login and fast to place orders. If you want to sell your brand new collections you can do that also. In Admin you need to login and create you brand collections and put it in Store",
       tags: [
         {
           name: "Next",
