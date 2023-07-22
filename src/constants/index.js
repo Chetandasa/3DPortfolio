@@ -152,13 +152,14 @@ import {
     },
     {
       title: "Next.js",
-      company_name: "Camp Home Away",
+      company_name: "E-commerce website",
       icon: shopify,
       iconBg: "#383E56",
       date: "April 2023",
-      points: ["Camp Home Away is a Best Website for Book your hotels like Airbnb Website",
-      "You can login create an account with Google, GitHub and very responsive website",
-      "You can Favorite you add your account and see the details of Properties you and see Map where it is located"],
+      points: ["Store is a Best Website for shopping and best responsive Website",
+      "You can order without login and best privacy and Fast to place Orders.",
+      "If you want to sell your brand new collections you can do that also there is a Admin.",
+      "For Admin you need to login and create you brand collections and put it in Store."],
     },
     // {
     //   title: "Full stack Developer",
