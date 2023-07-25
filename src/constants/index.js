@@ -33,6 +33,8 @@ import {
     promptopia,
     AISumz,
     Store,
+    Genius,
+    Geniuslogo,
   } from "../assets";
   
   export const navLinks = [
@@ -127,6 +129,20 @@ import {
   
   const experiences = [
     {
+      title: "Next.js",
+      company_name: "Ai-Genius",
+      icon: Geniuslogo,
+      iconBg: "#383E56",
+      date: "July 2023",
+      points: [
+        "This is a Ai Website you can Generate Conversation.",
+        "You can Generate Music , Images Generate",
+        "Video Generate, code Generate.",
+        "You can Login create an account with Google.",
+        "you can Upgrade to Genius Pro and use unlimited Generates."
+      ],
+    },
+    {
       title: "React.js & Next.js",
       company_name: "TV-Shows",
       icon: tvshows,
@@ -204,6 +220,27 @@ import {
   ];
   
   const projects = [
+    {
+      name: "AI-Genius",
+      description:
+        "This is a Ai Website you can Generate Conversation. You can Generate Music , Images Generate Video Generate, code Generate. You can Login create an account with Google. you can Upgrade to Genius Pro and use unlimited Generates.",
+      tags: [
+        {
+          name: "Next",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Stripe",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Clerk",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: Genius,
+      source_code_link: "https://github.com/Chetandasa/ai-saas",
+    },
     {
       name: "Store",
       description:

@@ -25,8 +25,9 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-import tvshows from "./company/tvshows.png"
-import AI from "./company/ai.png"
+import tvshows from "./company/tvshows.png";
+import AI from "./company/ai.png";
+import Geniuslogo from "./company/Geniuslogo.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -38,6 +39,7 @@ import portfolio from "./portfolio.png";
 import promptopia from "./promptopia.png";
 import AISumz from "./AISumz.png";
 import Store from "./Store.png";
+import Genius from "./Genius.png";
 
 export {
   logo,
@@ -77,4 +79,6 @@ export {
   promptopia,
   AISumz,
   Store,
+  Genius,
+  Geniuslogo,
 };
