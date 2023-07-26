@@ -143,18 +143,6 @@ import {
       ],
     },
     {
-      title: "React.js & Next.js",
-      company_name: "TV-Shows",
-      icon: tvshows,
-      iconBg: "#383E56",
-      date: "March 2023",
-      points: [
-        "A TV Shows like Netflix you can watch movies and you Favorite it to watch later",
-        "Login & Logout with Google, GitHub or Create a New account",
-        "Fully responsive website",
-      ],
-    },
-    {
       title: "AI",
       company_name: "AI Summarizer",
       icon: AI,
@@ -176,6 +164,18 @@ import {
       "You can order without login and best privacy and Fast to place Orders.",
       "If you want to sell your brand new collections you can do that also there is a Admin.",
       "For Admin you need to login and create you brand collections and put it in Store."],
+    },
+    {
+      title: "React.js & Next.js",
+      company_name: "TV-Shows",
+      icon: tvshows,
+      iconBg: "#383E56",
+      date: "March 2023",
+      points: [
+        "A TV Shows like Netflix you can watch movies and you Favorite it to watch later",
+        "Login & Logout with Google, GitHub or Create a New account",
+        "Fully responsive website",
+      ],
     },
     // {
     //   title: "Full stack Developer",
