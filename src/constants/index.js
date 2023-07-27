@@ -143,6 +143,17 @@ import {
       ],
     },
     {
+      title: "Next.js",
+      company_name: "E-commerce website",
+      icon: shopify,
+      iconBg: "#383E56",
+      date: "June 2023",
+      points: ["Store is a Best Website for shopping and best responsive Website",
+      "You can order without login and best privacy and Fast to place Orders.",
+      "If you want to sell your brand new collections you can do that also there is a Admin.",
+      "For Admin you need to login and create you brand collections and put it in Store."],
+    },
+    {
       title: "AI",
       company_name: "AI Summarizer",
       icon: AI,
@@ -153,17 +164,6 @@ import {
       "Integration of RTK Redux Toolkit Query",
       "Copy to clipboard browser history storage"
       ],
-    },
-    {
-      title: "Next.js",
-      company_name: "E-commerce website",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "June 2023",
-      points: ["Store is a Best Website for shopping and best responsive Website",
-      "You can order without login and best privacy and Fast to place Orders.",
-      "If you want to sell your brand new collections you can do that also there is a Admin.",
-      "For Admin you need to login and create you brand collections and put it in Store."],
     },
     {
       title: "React.js & Next.js",
