@@ -162,7 +162,7 @@ import {
       points: ["Summarizer is the Best AI-based web app with Modern user interface",
       "Connection to OpenAI model",
       "Integration of RTK Redux Toolkit Query",
-      "Copy to clipboard browser history storage"
+      "Copy to clipboard browser history Storage"
       ],
     },
     {
