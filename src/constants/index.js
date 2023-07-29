@@ -174,7 +174,7 @@ import {
       points: [
         "A TV Shows like Netflix you can watch movies and you Favorite it to watch later",
         "Login & Logout with Google, GitHub or Create a New account",
-        "Fully responsive website",
+        "Fully responsive Website",
       ],
     },
     // {
