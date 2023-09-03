@@ -35,6 +35,9 @@ import {
     Store,
     Genius,
     Geniuslogo,
+    Brainvision,
+    Edureka,
+    github,
   } from "../assets";
   
   export const navLinks = [
@@ -54,25 +57,20 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Frontend Developer",
       icon: web,
-      source_code_link: "https://github.com/Chetandasa",
     },
     {
-      title: "React Native Developer",
+      title: "React Developer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Web Developer",
       icon: backend,
     },
-    // {
-    //   title: "Content Creator",
-    //   icon: creator,
-    // },
     {
-      title: "Frontend Developer",
-      icon: creator,
+      title: "GitHub ",
+      icon: github,
     },
   ];
   
@@ -129,54 +127,79 @@ import {
   
   const experiences = [
     {
-      title: "Next.js",
-      company_name: "Ai-Genius",
-      icon: Geniuslogo,
+      title: "Frontend Developer",
+      company_name: "Brainvision Solutions Pvt.Ltd",
+      icon: Brainvision,
       iconBg: "#383E56",
-      date: "July 2023",
+      date: "Aug 2021 - Present",
       points: [
-        "This is a Ai Website you can Generate Conversation.",
-        "You can Generate Music , Images Generate",
-        "Video Generate, code Generate.",
-        "You can Login create an account with Google.",
-        "you can Upgrade to Genius Pro and use unlimited Generates."
+        "A Front-End Developer with entry-level experience specializing in web development.",
+        "Coordinate with the web development team to design user interfaces for client websites using HTML, JavaScript, and React.js.",
+        "Design, develop, and code web applications for customer accounts, which includes debugging issues, diagnosing root causes, and identifying solutions.",
+        "Create responsive designs for mobile applications, built wireframes, and developed prototypes for web development projects.",
       ],
     },
     {
-      title: "Next.js",
-      company_name: "E-commerce website",
-      icon: shopify,
+      title: "Full Stack Web Developer",
+      company_name: "Edureka Internship Program",
+      icon: Edureka,
       iconBg: "#383E56",
-      date: "June 2023",
-      points: ["Store is a Best Website for shopping and best responsive Website",
-      "You can order without login and best privacy and Fast to place Orders.",
-      "If you want to sell your brand new collections you can do that also there is a Admin.",
-      "For Admin you need to login and create you brand collections and put it in Store."],
-    },
-    {
-      title: "AI",
-      company_name: "AI Summarizer",
-      icon: AI,
-      iconBg: "#E6DEDD",
-      date: "April 2023",
-      points: ["Summarizer is the Best AI-based web app with Modern user interface",
-      "Connection to OpenAI model",
-      "Integration of RTK Redux Toolkit Query",
-      "Copy to clipboard browser history Storage."
-      ],
-    },
-    {
-      title: "React.js & Next.js",
-      company_name: "TV-Shows",
-      icon: tvshows,
-      iconBg: "#383E56",
-      date: "March 2023",
+      date: "Jan 2021 - June 2021",
       points: [
-        "A TV Shows like Netflix you can watch movies and you Favorite it to watch later",
-        "Login & Logout with Google, GitHub or Create a New account",
-        "Fully responsive Website.",
+        "Applied hands on learning and agile development to build a full stack MERN Application.",
+        "Created and debugged React.js, Javascript, Typescript, Mongodb, and Node.js.",
+        "Utilizing Javascript, NodeJS, ReactJS, NextJS, Authentication, Stripe to display data from thrid-party and company's API.",
       ],
     },
+    // {
+    //   title: "Next.js",
+    //   company_name: "Ai-Genius",
+    //   icon: Geniuslogo,
+    //   iconBg: "#383E56",
+    //   date: "July 2023",
+    //   points: [
+    //     "This is a Ai Website you can Generate Conversation.",
+    //     "You can Generate Music , Images Generate",
+    //     "Video Generate, code Generate.",
+    //     "You can Login create an account with Google.",
+    //     "you can Upgrade to Genius Pro and use unlimited Generates."
+    //   ],
+    // },
+    // {
+    //   title: "Next.js",
+    //   company_name: "E-commerce website",
+    //   icon: shopify,
+    //   iconBg: "#383E56",
+    //   date: "June 2023",
+    //   points: ["Store is a Best Website for shopping and best responsive Website",
+    //   "You can order without login and best privacy and Fast to place Orders.",
+    //   "If you want to sell your brand new collections you can do that also there is a Admin.",
+    //   "For Admin you need to login and create you brand collections and put it in Store."],
+    // },
+    // {
+    //   title: "AI",
+    //   company_name: "AI Summarizer",
+    //   icon: AI,
+    //   iconBg: "#E6DEDD",
+    //   date: "April 2023",
+    //   points: ["Summarizer is the Best AI-based web app with Modern user interface",
+    //   "Connection to OpenAI model",
+    //   "Integration of RTK Redux Toolkit Query",
+    //   "Copy to clipboard browser history Storage."
+    //   ],
+    // },
+    // {
+    //   title: "React.js & Next.js",
+    //   company_name: "TV-Shows",
+    //   icon: tvshows,
+    //   iconBg: "#383E56",
+    //   date: "March 2023",
+    //   points: [
+    //     "A TV Shows like Netflix you can watch movies and you Favorite it to watch later",
+    //     "Login & Logout with Google, GitHub or Create a New account",
+    //     "Fully responsive Website.",
+    //   ],
+    // },
     // {
     //   title: "Full stack Developer",
     //   company_name: "Meta",

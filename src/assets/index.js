@@ -28,6 +28,9 @@ import tesla from "./company/tesla.png";
 import tvshows from "./company/tvshows.png";
 import AI from "./company/ai.png";
 import Geniuslogo from "./company/Geniuslogo.png";
+import Brainvision from "./company/brainvision.png";
+import Edureka from "./company/edureka.png";
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -81,4 +84,6 @@ export {
   Store,
   Genius,
   Geniuslogo,
+  Brainvision,
+  Edureka
 };
