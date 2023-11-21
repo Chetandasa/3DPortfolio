@@ -144,7 +144,7 @@ import {
       company_name: "Edureka Internship Program",
       icon: Edureka,
       iconBg: "#383E56",
-      date: "Jan 2021 - June 2021",
+      date: "2023",
       points: [
         "Applied hands on learning and agile development to build a full stack MERN Application.",
         "Created and debugged React.js, Javascript, Typescript, Mongodb, and Node.js.",
