@@ -126,19 +126,19 @@ import {
   ];
   
   const experiences = [
-    {
-      title: "Frontend Developer",
-      company_name: "Brainvision Solutions Pvt.Ltd",
-      icon: Brainvision,
-      iconBg: "#383E56",
-      date: "Aug 2021 - Present",
-      points: [
-        "A Front-End Developer with entry-level experience specializing in web development.",
-        "Coordinate with the web development team to design user interfaces for client websites using HTML, JavaScript, and React.js.",
-        "Design, develop, and code web applications for customer accounts, which includes debugging issues, diagnosing root causes, and identifying solutions.",
-        "Create responsive designs for mobile applications, built wireframes, and developed prototypes for web development projects.",
-      ],
-    },
+    // {
+    //   title: "Frontend Developer",
+    //   company_name: "Brainvision Solutions Pvt.Ltd",
+    //   icon: Brainvision,
+    //   iconBg: "#383E56",
+    //   date: "Aug 2021 - Present",
+    //   points: [
+    //     "A Front-End Developer with entry-level experience specializing in web development.",
+    //     "Coordinate with the web development team to design user interfaces for client websites using HTML, JavaScript, and React.js.",
+    //     "Design, develop, and code web applications for customer accounts, which includes debugging issues, diagnosing root causes, and identifying solutions.",
+    //     "Create responsive designs for mobile applications, built wireframes, and developed prototypes for web development projects.",
+    //   ],
+    // },
     {
       title: "Full Stack Web Developer",
       company_name: "Edureka Internship Program",
