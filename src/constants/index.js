@@ -38,6 +38,7 @@ import {
     Brainvision,
     Edureka,
     github,
+    Triwits,
   } from "../assets";
   
   export const navLinks = [
@@ -149,6 +150,18 @@ import {
         "Applied hands on learning and agile development to build a full stack MERN Application.",
         "Created and debugged React.js, Javascript, Typescript, Mongodb, and Node.js.",
         "Utilizing Javascript, NodeJS, ReactJS, NextJS, Authentication, Stripe to display data from thrid-party and company's API.",
+      ],
+    },
+    {
+      title: "Graphic Design",
+      company_name: "Triwits technologies PVT LTD",
+      icon: Triwits,
+      iconBg: "#383E56",
+      date: "2024 - Present",
+      points: [
+        "During my current internship, I am expanding my skills in graphic design and video editing",
+        "with a focus on mastering tools like Adobe Premiere Pro",
+        "This experience allows me to refine my abilities in creating compelling visual content and sharpen my proficiency with industry-standard software.",
       ],
     },
     // {

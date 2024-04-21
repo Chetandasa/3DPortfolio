@@ -30,6 +30,7 @@ import AI from "./company/ai.png";
 import Geniuslogo from "./company/Geniuslogo.png";
 import Brainvision from "./company/brainvision.png";
 import Edureka from "./company/edureka.png";
+import Triwits from "./company/Triwits.png";
 
 
 import carrent from "./carrent.png";
@@ -85,5 +86,6 @@ export {
   Genius,
   Geniuslogo,
   Brainvision,
-  Edureka
+  Edureka,
+  Triwits
 };
