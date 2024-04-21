@@ -164,6 +164,7 @@ import {
         "This experience allows me to refine my abilities in creating compelling visual content and sharpen my proficiency with industry-standard software.",
       ],
     },
+    
     // {
     //   title: "Next.js",
     //   company_name: "Ai-Genius",
